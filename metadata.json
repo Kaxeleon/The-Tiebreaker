@@ -1,0 +1,7 @@
+{
+  "name": "The Tiebreaker",
+  "description": "Smart AI-powered decision maker with pros & cons lists, multi-option comparison tables, SWOT analyses, and decisive tiebreaker verdicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
